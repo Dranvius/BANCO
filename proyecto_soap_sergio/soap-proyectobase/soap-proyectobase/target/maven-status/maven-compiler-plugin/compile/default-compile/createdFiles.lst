@@ -1,0 +1,11 @@
+co\vinni\soapproyectobase\entidades\Persona.class
+co\vinni\soapproyectobase\utilidades\UtilidadArchivos.class
+co\vinni\soapproyectobase\SoapProyectobaseApplication.class
+co\vinni\soapproyectobase\controladores\ControladorCuentas.class
+co\vinni\soapproyectobase\servicios\ServicioCuentas.class
+co\vinni\soapproyectobase\dto\CuentaDto.class
+co\vinni\soapproyectobase\entidades\Equipo.class
+co\vinni\soapproyectobase\entidades\tipo_cuenta_inf.class
+co\vinni\soapproyectobase\servicios\ServicioCuentas$1.class
+co\vinni\soapproyectobase\entidades\Cuenta.class
+co\vinni\soapproyectobase\repositorios\RepositorioCuenta.class
